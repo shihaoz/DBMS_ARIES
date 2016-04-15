@@ -1,0 +1,4 @@
+*.o
+correct/*
+output/*
+testca/*
